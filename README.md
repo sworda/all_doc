@@ -1,2 +1,2 @@
-# all_doc
+# All Docs
 skill_tree
